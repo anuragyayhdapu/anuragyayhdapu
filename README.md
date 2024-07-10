@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a Minecrasft Game in my Custom C++ Game Engine. I am also creating an AI Visual testbed for Pathfinding Algorithms. <br /><br />
-🌱 I’m currently learning Game Development from SMU Guildhall. <br /><br />
-💬 Ask me about why I like RPGs and Rythem Games. 
+Passionate and driven Game Developer. With an extensive background in C++.
+
+I've gained valuable experience from working in teams of varied sizes, culminating in the successful shipment of two games. I am deeply fascinated by Animation Systems & AI in games.
+
+Committed to continuous learning. 
 
 <!--
 **anuragyayhdapu/anuragyayhdapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
